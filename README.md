@@ -8,8 +8,6 @@ My journey in programming started through independent learning and experimentati
 
 Currently focused on backend development, software engineering, AI-powered solutions and cloud infrastructure.
 
-[LinkedIn](SEU_LINKEDIN) · [GitHub](https://github.com/luizme7)
-
 ---
 
 ## ABOUT
@@ -97,7 +95,7 @@ Currently focused on backend development, software engineering, AI-powered solut
 
 ## CONTACT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-263238?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-263238?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizme/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-263238?style=flat-square&logo=github&logoColor=white)](https://github.com/luizme7)
 
 ---
