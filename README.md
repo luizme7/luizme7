@@ -97,14 +97,6 @@ Beyond software development, I am actively expanding my knowledge of **Generativ
 
 ---
 
-## GITHUB ANALYTICS
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luizme7&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=luizme7&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-263238?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizme/)
