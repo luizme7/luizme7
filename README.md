@@ -12,15 +12,33 @@ Currently focused on backend development, software engineering, AI-powered solut
 
 ## ABOUT
 
-| Education | Professional Experience |
-|:--|:--|
-| Computer Science — UNIFACS | Software Development Freelancer |
-| ProUni Full Scholarship | Community Contributor |
+I am a Computer Science student at **UNIFACS**, pursuing a career in software engineering and technology innovation. As a **full ProUni scholarship recipient**, I value continuous learning, practical experience and the opportunity to contribute to meaningful projects.
 
-| Community | Areas of Interest |
+My background combines independent programming experience, freelance software development and collaborative projects. I have worked on web applications, backend solutions, automation, integrations and software maintenance, while continuously exploring new technologies and development approaches.
+
+Beyond software development, I am actively expanding my knowledge of **Generative AI, Cloud Computing, Cybersecurity and enterprise ecosystems**, including SAP and Microsoft technologies.
+
+As a **Microsoft Student Ambassador**, I also engage with technology communities, knowledge sharing and initiatives that encourage learning and innovation.
+
+### Current Focus
+
+| Area | Focus |
 |:--|:--|
-| Microsoft Student Ambassador | Backend Development |
-| Technology Communities | Generative AI · Cloud · Cybersecurity |
+| Software Engineering | Backend development, application architecture and scalable solutions |
+| Artificial Intelligence | Generative AI, AI-assisted development and automation |
+| Cloud Computing | AWS, Microsoft Azure and Google Cloud |
+| Cybersecurity | Network security, application security and infrastructure |
+| Enterprise Technology | SAP ecosystem and Microsoft technologies |
+
+### Background
+
+| | |
+|:--|:--|
+| **Education** | B.Sc. in Computer Science — UNIFACS |
+| **Scholarship** | ProUni — Full Scholarship (100%) |
+| **Professional Experience** | Freelance Software Developer |
+| **Community** | Microsoft Student Ambassador |
+| **Languages** | Portuguese (Native) · English (Fluent) |
 
 ---
 
