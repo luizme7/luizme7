@@ -2,23 +2,17 @@
 
 **Software Developer | Generative AI | Cloud Computing**
 
-Computer Science student at **UNIFACS**, interested in software engineering, artificial intelligence, cloud computing and cybersecurity.
+Computer Science student, interested in software engineering, artificial intelligence, cloud computing and cybersecurity.
 
-My journey in programming started through independent learning and experimentation. I enjoy understanding how technologies work, solving problems and building practical solutions.
-
-Currently focused on backend development, software engineering, AI-powered solutions and cloud infrastructure.
+My journey in programming started through independent learning and experimentation. I enjoy understanding how technologies work, solving problems and building practical solutions. Currently focused on backend development, software engineering, AI-powered solutions and cloud infrastructure.
 
 ---
 
 ## ABOUT
 
-I am a Computer Science student at **UNIFACS**, pursuing a career in software engineering and technology innovation. As a **full ProUni scholarship recipient**, I value continuous learning, practical experience and the opportunity to contribute to meaningful projects.
+I am a Computer Science student at **UNIFACS**, pursuing a career in software engineering and technology innovation. I value continuous learning, practical experience and the opportunity to contribute to meaningful projects. My background combines independent programming experience, freelance software development and collaborative projects. I have worked on web applications, backend solutions, automation, integrations and software maintenance, while continuously exploring new technologies and development approaches.
 
-My background combines independent programming experience, freelance software development and collaborative projects. I have worked on web applications, backend solutions, automation, integrations and software maintenance, while continuously exploring new technologies and development approaches.
-
-Beyond software development, I am actively expanding my knowledge of **Generative AI, Cloud Computing, Cybersecurity and enterprise ecosystems**, including SAP and Microsoft technologies.
-
-As a **Microsoft Student Ambassador**, I also engage with technology communities, knowledge sharing and initiatives that encourage learning and innovation.
+Beyond software development, I am actively expanding my knowledge of **Generative AI, Cloud Computing, Cybersecurity and enterprise ecosystems**, including SAP and Microsoft technologies. As a **Microsoft Student Ambassador**, I also engage with technology communities, knowledge sharing and initiatives that encourage learning and innovation.
 
 ### Current Focus
 
