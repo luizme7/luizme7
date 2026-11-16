@@ -99,7 +99,7 @@ Beyond software development, I am actively expanding my knowledge of **Generativ
 
 ## GITHUB ANALYTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizme7&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizme7&show_icons=true&theme=transparent&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizme7&layout=compact&theme=transparent&hide_border=true)
 
